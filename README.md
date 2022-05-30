@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ribeiro-Vinicius
 - 👀 I’m interested in technology, history, sociology and philosophy.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Open souce projects once I feel I have something to offer
+- 🌱 I’m currently learning Python and all the basic things a developer should know.
+- 💞️ I’m looking to 
 - 📫 How to reach me ...
 
 <!---
