@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ribeiro-Vinicius
+- 👋 Hi, I’m @Ribeiro-Vinicius, a student of Systems Analysis and Development at FIAP.
 - 👀 I’m interested in technology, history, sociology and philosophy.
 - 🌱 I’m currently learning Python and all the basic things a developer should know.
 
