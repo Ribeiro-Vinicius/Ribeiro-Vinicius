@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ribeiro-Vinicius, a student of Systems Analysis and Development at FIAP.
 - 🌱 I’m currently learning Java and all the things a back-end developer should know.
 - I'm looking for a job as Junior Back-Developer. I would rather work in the Back-End but I would as well accept a job as Front-End Developer.
-- I'm looking forward to being capable of contribuing to an open-source project.
  
 
 <div style="display: inline_block"><br>
