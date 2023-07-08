@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Ribeiro-Vinicius, a student of Systems Analysis and Development at FIAP.
-- 🌱 I’m currently learning Java and all the things a back-end developer should know.
-- I'm looking for a job as Junior Back-Developer. I would rather work in the Back-End but I would as well accept a job as Front-End Developer.
+- Olá, eu sou o Vinícius, um estudante de Análise e Desenvolvimento de Sistemas na FIAP.
+- Estou estudando Java, Spring, API e mais todas as outras coisas cobradas em vagas de Desenvolvedor Java Júnior.
+- Estou buscando uma vaga como Desenvolvedor, tanto em nível de estágio quanto Júnior. Tenho preferência pelo Back-end, mas estou mais que disposto a aprender outra linguagem e trabalhar com outras áreas correlatas.
+
  
 
 <div style="display: inline_block"><br>
