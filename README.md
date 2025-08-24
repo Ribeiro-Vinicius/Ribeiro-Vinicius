@@ -1,6 +1,7 @@
-- Olá, eu sou o Vinícius, um estudante de Análise e Desenvolvimento de Sistemas na FIAP.
+- Olá, eu sou o Vinícius, formado em Análise e Desenvolvimento de Sistemas na FIAP.
 - Estou estudando Java, Spring, API e mais todas as outras coisas cobradas em vagas de Desenvolvedor Java Júnior.
-- Estou buscando uma vaga como Desenvolvedor, tanto em nível de estágio quanto Júnior. Tenho preferência pelo Back-end, mas estou mais que disposto a aprender outra linguagem e trabalhar com outras áreas correlatas.
+- Estou buscando uma vaga como Desenvolvedor Júnior. Tenho preferência pelo Back-end, mas estou mais que disposto a aprender outra linguagem e trabalhar com outras áreas correlatas.
+- Também venho me capacitando para atuar como um Cientista de Dados.
 
  
 
